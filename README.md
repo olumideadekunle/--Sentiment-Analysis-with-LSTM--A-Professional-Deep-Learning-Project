@@ -77,7 +77,7 @@ This project requires Python 3.7+.
 
 ## Installation
 Clone the repo:
-## git clone https://github.com/your_username/Sentiment-Analysis-LSTM.git
+## git clone https://github.com/olumideadekunle/Sentiment-Analysis-LSTM.git
 Navigate to the project directory:
 cd Sentiment-Analysis-LSTM
 ## Install Python packages:
